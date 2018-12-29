@@ -55,16 +55,16 @@ getchar hooked: 1
 现在是个人都知道hook _dyld_get_image_name来修改返回.
 
 
-AppEnvCheck[13683:1851670] SubstrateBootstrap.dylib
-AppEnvCheck[13683:1851670] /Developer/usr/lib/libBacktraceRecording.dylib
-AppEnvCheck[13683:1851670] /Developer/Library/PrivateFrameworks/DTDDISupport.framework/libViewDebuggerSupport.dylib
-AppEnvCheck[13683:1851670] /usr/lib/system/introspection/libdispatch.dylib
- AppEnvCheck[13683:1851670] SubstrateLoader.dylib
- AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/AppAnalyze.dylib
- AppEnvCheck[13683:1851670] /Library/Frameworks/CydiaSubstrate.framework/CydiaSubstrate
- AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/AppEnvCheckHOOK.dylib
-AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/SSLKillSwitch2.dylib
-AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/TEMain.dylib
-AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/TSTweakEx.dylib
-AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/reveal2Loader.dylib
+AppEnvCheck[13683:1851670] SubstrateBootstrap.dylib  
+AppEnvCheck[13683:1851670] /Developer/usr/lib/libBacktraceRecording.dylib  
+AppEnvCheck[13683:1851670] /Developer/Library/PrivateFrameworks/DTDDISupport.framework/libViewDebuggerSupport.dylib  
+AppEnvCheck[13683:1851670] /usr/lib/system/introspection/libdispatch.dylib  
+ AppEnvCheck[13683:1851670] SubstrateLoader.dylib  
+ AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/AppAnalyze.dylib  
+ AppEnvCheck[13683:1851670] /Library/Frameworks/CydiaSubstrate.framework/CydiaSubstrate  
+ AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/AppEnvCheckHOOK.dylib  
+AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/SSLKillSwitch2.dylib  
+AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/TEMain.dylib  
+AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/TSTweakEx.dylib  
+AppEnvCheck[13683:1851670] /Library/MobileSubstrate/DynamicLibraries/reveal2Loader.dylib  
 
